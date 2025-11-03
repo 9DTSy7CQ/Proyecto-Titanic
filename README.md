@@ -11,6 +11,6 @@
 
 A continuación se indican algunos enlaces útiles para la visualización del proyecto en su totalidad:
 
-Enlace al repositorio de GitHub: [RepositorioGit](git remote add origin https://github.com/9DTSy7CQ/Proyecto-Titanic.git).
+Enlace al repositorio de GitHub: [RepositorioGit](https://github.com/9DTSy7CQ/Proyecto-Titanic.git).
 
 Enlace a la carpeta de documentación dentro del repositorio: [Documentación](https://github.com/9DTSy7CQ/Proyecto-Titanic/tree/master/doc).
